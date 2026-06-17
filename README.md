@@ -56,11 +56,11 @@ Performance Metrics:
 
 ## Decision Tree Classifier
 ### Performance Metrics:
-- Accuracy:90.24%
+- Accuracy: 90.24%
 
  ## Random Forest Classifier
 - ### Performance Metrics:
-- Accuracy: 100% 
+- Accuracy:  100% 
   Random Forest achieved the highest performance amomg all models.
 
 ## Model Evaluation Metrics
@@ -70,13 +70,13 @@ The following evaluation metrics were used:
 - Recall Score
 - F1 Score
 
-## Model Comparison
+## Model Comparison 
 Model                     :   Accuracy 
 Logistic Regression       :   97.56% 
 Decision Tree             :   90.24% 
 Random Forest             :   100% 
 
-## Model Saving
+## Model Saving 
 The Final Random Forest model was saved using Joblib.
 
   
