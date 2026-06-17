@@ -47,7 +47,7 @@ Techniques applied:
 - Class distribution verification
 
 ## Machine Learning Model used
-###Logistic Regression
+### Logistic Regression
 Performance Metrics:
 - Accuracy: 97.56%
 - Precision:97.29%
@@ -60,7 +60,7 @@ Performance Metrics:
 
  ## Random Forest Classifier
 - ### Performance Metrics:
-- Accuracy: 100%
+- Accuracy: 100% 
   Random Forest achieved the highest performance amomg all models.
 
 ## Model Evaluation Metrics
@@ -71,16 +71,12 @@ The following evaluation metrics were used:
 - F1 Score
 
 ## Model Comparison
-Model                        Accuracy
-Logistic Regression          97.56%
-Decision Tree                90.24%
-Random Forest                100%
+Model                     :   Accuracy 
+Logistic Regression       :   97.56% 
+Decision Tree             :   90.24% 
+Random Forest             :   100% 
 
 ## Model Saving
 The Final Random Forest model was saved using Joblib.
 
-
-- 
-##
- - 
   
